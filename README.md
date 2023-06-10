@@ -1,8 +1,11 @@
 [![Tags](https://img.shields.io/github/v/tag/xioTechnologies/Fusion.svg)](https://github.com/xioTechnologies/Fusion/tags/)
-[![Build](https://img.shields.io/github/actions/workflow/status/xioTechnologies/Fusion/main.yml?branch=main)](https://github.com/xioTechnologies/Fusion/actions/workflows/main.yml)
-[![Pypi](https://img.shields.io/pypi/v/imufusion.svg)](https://pypi.org/project/imufusion/)
-[![Python](https://img.shields.io/pypi/pyversions/imufusion.svg)](https://pypi.org/project/imufusion/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# tve/fusion fork info
+
+This fork implements a JavaScript wrapper for the Fusion C library so it can be
+used in the Moddable Javascript SDK in embedded systems.
+For am example, see https://github.com/tve/modtve/tree/main/modules/examples/bmi160viz
 
 # Fusion
 
