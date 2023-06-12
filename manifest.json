@@ -1,0 +1,6 @@
+{
+  "modules": {
+    "embedded:lib/IMU/*": "./*"
+  },
+  "preload": ["embedded:lib/IMU/fusion"]
+}
